@@ -1,4 +1,3 @@
-layout_spectrum: 0.040513643994927406
 typography_spectrum: 0.6428116720635444
 color:
   brandStrength: 0.8214870127849281
@@ -11,4 +10,8 @@ color:
     - '#40411E'
     - '#32331D'
     - '#C03000'
+layout_spectrum: 0.040513643994927406
 name: Disciple the Planet
+title: |
+  Disciple the 
+  Planet
