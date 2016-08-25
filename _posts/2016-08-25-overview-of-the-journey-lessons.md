@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.journeytraining.com/overview-of-the-journey-lessons.html'
 title: Overview of the Journey Lessons
-datePublished: '2016-08-25T21:11:49.499Z'
-dateModified: '2016-08-25T21:07:31.707Z'
+datePublished: '2016-08-25T21:12:33.422Z'
+dateModified: '2016-08-25T21:12:21.241Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-25-overview-of-the-journey-lessons.md
